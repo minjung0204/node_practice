@@ -1,0 +1,24 @@
+{
+  "name": "applenode",
+  "version": "1.0.0",
+  "description": "코딩 애플 노드 강의",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minjung0204/node_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minjung0204/node_practice/issues"
+  },
+  "homepage": "https://github.com/minjung0204/node_practice#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
